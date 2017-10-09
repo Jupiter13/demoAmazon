@@ -1,0 +1,7 @@
+LoginButton,xpath, .//*[@id='nav-link-yourAccount']
+elementSignIn,xpath, .//*[contains(text(),'Hello. Sign in')]
+elementObjEmail,xpath, .//*[contains(@id, 'ap_email')]
+elementObjPassword,xpath, .//input[@id='ap_password']
+elementObjCreateAccSubmit,xpath, .//*[@id='createAccountSubmit']
+eleObjSignInButton,xpath, .//*[contains(text(),'Sign in')]
+OBJEXT,xpath,.//[][]
